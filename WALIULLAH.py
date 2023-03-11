@@ -24,7 +24,7 @@ def Run():
             print("\x1b[1;92m[•] Congratulations ! Your Device Support this Tools")
             print('[•] Join Over Facebook I'd First')
             os.system('xdg-open https://facebook.com/fatherofMarkzuckerberglotay/')
-            import WALIULLAH
+            import AKING
         else:
             exit('\033[1;31m[×] Sorry, Your Device Not Support This Tool')
 Run()
